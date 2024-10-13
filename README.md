@@ -1,4 +1,4 @@
-## sgx_webscrape
+## SGX data downloader
 Download historical price data for SGX listed equity.
 
 May need to update the User Agent to what works on your machine.
